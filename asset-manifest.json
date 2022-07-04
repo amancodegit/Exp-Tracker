@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Exp-Tracker/static/css/main.90cae563.css",
+    "main.js": "/Exp-Tracker/static/js/main.6f709f1a.js",
+    "static/js/787.c2677bb9.chunk.js": "/Exp-Tracker/static/js/787.c2677bb9.chunk.js",
+    "static/media/Screenshot (1).png": "/Exp-Tracker/static/media/Screenshot (1).2c8ccf59ae4f3f5de49f.png",
+    "index.html": "/Exp-Tracker/index.html",
+    "main.90cae563.css.map": "/Exp-Tracker/static/css/main.90cae563.css.map",
+    "main.6f709f1a.js.map": "/Exp-Tracker/static/js/main.6f709f1a.js.map",
+    "787.c2677bb9.chunk.js.map": "/Exp-Tracker/static/js/787.c2677bb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90cae563.css",
+    "static/js/main.6f709f1a.js"
+  ]
+}
